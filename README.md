@@ -7,3 +7,4 @@ This is a recopilation of all the knowledge about crypto that I have found inter
 
 ### Coin-Specific
 * [IOTA](cryptocurrencies/IOTA/iota.md)
+* [VeChain](cryptocurrencies/VeChain/vechain.md)
