@@ -14,7 +14,8 @@ This is a compilation of all the knowledge about crypto that I have found intere
 
 # Protocols
 ## Mimblewimble
-* [MimbleWimble with Andrew Polestra](https://www.youtube.com/watch?v=aHTRlbCaUyM) - Video
+* [MimbleWimble with Andrew Polestra](https://www.youtube.com/watch?v=aHTRlbCaUyM) - Video | [Watch on Invidious](https://invidious.snopyta.org/watch?v=aHTRlbCaUyM)
+* [What is Mimblewimble and Dandelion](https://www.youtube.com/watch?v=LjDJGTpK_lE9) - Video | [Watch on Invidious](https://invidious.snopyta.org/watch?v=LjDJGTpK_lE9)
 
 ## Lightning Network
 
