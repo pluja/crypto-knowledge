@@ -1,5 +1,4 @@
-[Original Source](https://www.reddit.com/r/CryptoCurrency/comments/nh6lzx/50_crypto_terms_you_should_know/)
-[Privacy Respecting Source](https://libredd.it/r/CryptoCurrency/comments/nh6lzx/50_crypto_terms_you_should_know/)
+[[ [Original Source](https://www.reddit.com/r/CryptoCurrency/comments/nh6lzx/50_crypto_terms_you_should_know/) | [Privacy Respecting Source](https://libredd.it/r/CryptoCurrency/comments/nh6lzx/50_crypto_terms_you_should_know/) ]]
 
 Behold the top 50 crypto terms you should know!
 
